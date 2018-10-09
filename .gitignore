@@ -1,5 +1,8 @@
 *.gem
 *.rbc
+*.not
+*.lock
+*.code-workspace
 /.config
 /coverage/
 /InstalledFiles
