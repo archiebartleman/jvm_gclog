@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
-#gem "minitest"
-gem "rake"
-gem "rspec"
-
 gemspec
+
+gem "rake", ">= 12.3.1"
+gem "rspec", ">= 3.8.0"
